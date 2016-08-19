@@ -1,0 +1,50 @@
+thanks much for your feedback and apologies for this tardy response.
+you pointed me in the right direction.
+i did not appreciate how even if the algorithm ultimately has o(n^2) behavior
+it can take a big n to overcome large coefficients on lower order terms
+
+a quick fix to my original code is to simply have 100 columns in each row 
+instead of 10, and to look at bigger numbers of rows as well
+
+a simple plot shows obvious nonlinearity now
+
+for you guys reading this text email, a human readable table can be gotton
+from this code
+which yields
+finally a quick simple powr law fit using
+yields
+
+
+
+dear samsad,
+the usual use of the arsine transformation for proportion is acrcasdf.
+thus, in R, for proportions in p, you can use.
+
+you could have found the asin function your self in several ways, including
+help.search, which turns up the help page for asdf fuctions.
+
+you could have found the asd function yourself in several ways, including
+help 
+
+as well, the logit transforma, , is ususally preferred to the
+acr-asdf transfor for proportions beause the former is unbounded
+
+
+what are we trying to do?
+in the previous chapter, we introduced the two core concepts of exploration
+and explotation. in this chpater, we want to maek those concepts more concrete
+by explining how they would arise in the specific ontext of website optimization
+when we talk about optimizing a website, we are referring to a setpbystep process
+in which a web developer makes a series of changes to a website.
+
+
+this is a story about moomins i just love moomins i always have
+but perhaps you have no clue what im talking about moomins were important in my
+child hood but I know that many people grew up without them though as it is so often
+the way with chieldhood reading i cannot imagine how
+moomins feature in one of my favorite series of books, created in the 40s by a genius
+called tove jansson, and they are funny. they re tippy and dreamy sometimes
+melancholy and often wise. tjey are also finnish.
+
+ishall return to the moomins shortly, because meanwhile, in another part of
+the forest, a small gaulish <F3>
